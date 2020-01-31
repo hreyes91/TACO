@@ -18,7 +18,7 @@ Running TACO
 
 
 
-python -f <input directory> -o <output directory> -c <Number of copies> -t cut-off*
+python -f <input directory> -o <output directory> -c <Number of copies> -t <cut-off> -k <chunk size>
   
   
 Citation
